@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class CliCalculator2 {
 
     @SuppressWarnings("ConvertToTryWithResources")
